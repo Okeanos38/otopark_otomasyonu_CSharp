@@ -12,3 +12,7 @@ SqlConnection baglanti = new SqlConnection(connectionString: "Data Source=Sizin 
  - Tüm form.cs'lerde veritabanı bağlantınızı güncelleyin.
  
  ### 2. Sql server'a otoparkc#.sql veritabanını import edin.
+
+
+## Stored procedure (Saklı Yordamlar) nedir ?
+
