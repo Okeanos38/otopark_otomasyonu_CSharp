@@ -1,8 +1,8 @@
 # Otopark Otomasyonu C#
 Otopark Otomasyonu C# Form - Stored procedure
 
-**Bu proje `Stored procedure` kullanılarak yazılmıştır. Açık kaynak geliştirebilir, kullanabilirsiniz.**
-**Tükçe Eğitim Videosu - Link **
+- **Bu proje `Stored procedure` kullanılarak yazılmıştır. Açık kaynak geliştirebilir, kullanabilirsiniz.**
+- **Tükçe Eğitim Videosu - [Link](https://www.youtube.com/watch?v=9AWztN_TkF8&t=3337s)**
 
 ### 1. Veritabanı Bağlantısını Yapınız
 ```
