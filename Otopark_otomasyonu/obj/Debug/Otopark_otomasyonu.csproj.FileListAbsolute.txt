@@ -1,0 +1,15 @@
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe.config
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.pdb
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csprojAssemblyReference.cache
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_otopark_yerleri.resources
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Form1.resources
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.exe
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.pdb
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.otopark_kaydi.resources
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.otoparkyeri_sec.resources
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.marka.resources
+C:\Users\np\source\repos\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.renk.resources
